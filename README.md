@@ -8,7 +8,7 @@ A MERN application for recording income and expenses, setting category budgets, 
 - MongoDB 7+ locally (or a MongoDB Atlas connection string)
 - Docker Desktop is optional if you want to run the included MongoDB Compose service
 
-## Start MongoDB
+## Start MongoDB DataBase
 
 In a terminal:
 
